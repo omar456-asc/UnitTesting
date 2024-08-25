@@ -159,7 +159,7 @@
             <mxRectangle width="64" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dw7Xn7XX1pYtoTQ-LIG8-47" value="one to many" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmany;endSize=10;;exitX=0.97;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1">
+        <mxCell id="dw7Xn7XX1pYtoTQ-LIG8-47" value="one to many" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERmany;endSize=10;;exitX=0.97;exitY=1;entryX=0.5;entryY=0;strokeColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="553" y="171" />
